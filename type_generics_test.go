@@ -1,4 +1,4 @@
-package fund_go_generics
+package main
 
 import (
 	"fmt"
